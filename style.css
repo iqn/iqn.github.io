@@ -1,0 +1,32 @@
+body {
+background: #eeeeee;
+text-align: center;
+}
+#main {
+width: 1000px;
+height: 600px;
+margin: 25px auto;
+border: solid 1px #eee6dd;
+-webkit-box-shadow: 1px 1px 19px 12px rgba(99,99,99,1);
+-moz-box-shadow: 1px 1px 19px 12px rgba(99,99,99,1);
+box-shadow: 1px 1px 19px 12px rgba(99,99,99,1);
+}
+{
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+h1 {
+text-align: center;
+font-family:"Arial Black";
+font: 24pt;
+color: #212020;
+}
+p {
+font-family: "Arial";
+}
+a {
+font-family: "Arial";
+}
